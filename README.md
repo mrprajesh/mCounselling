@@ -1,2 +1,2 @@
 # mCounselling
-TN Medical Councelling Stats
+TN Medical Counselling Stats
